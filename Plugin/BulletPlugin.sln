@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BulletInterface", "BulletInterface\BulletInterface.vcxproj", "{6C332F9F-985D-42A4-A950-8C54D7F18B20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulletDotNet", "BulletDotNet\BulletDotNet.csproj", "{5017FAC4-C88B-41E5-9365-94D60AB3AE31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulletTest", "BulletTest\BulletTest.csproj", "{366A0BE8-5202-4041-B718-5E0289C601DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C332F9F-985D-42A4-A950-8C54D7F18B20}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6C332F9F-985D-42A4-A950-8C54D7F18B20}.Debug|Win32.Build.0 = Debug|Win32
+		{6C332F9F-985D-42A4-A950-8C54D7F18B20}.Release|Win32.ActiveCfg = Release|Win32
+		{6C332F9F-985D-42A4-A950-8C54D7F18B20}.Release|Win32.Build.0 = Release|Win32
+		{5017FAC4-C88B-41E5-9365-94D60AB3AE31}.Debug|Win32.ActiveCfg = Debug|x86
+		{5017FAC4-C88B-41E5-9365-94D60AB3AE31}.Debug|Win32.Build.0 = Debug|x86
+		{5017FAC4-C88B-41E5-9365-94D60AB3AE31}.Release|Win32.ActiveCfg = Release|x86
+		{5017FAC4-C88B-41E5-9365-94D60AB3AE31}.Release|Win32.Build.0 = Release|x86
+		{366A0BE8-5202-4041-B718-5E0289C601DD}.Debug|Win32.ActiveCfg = Debug|x86
+		{366A0BE8-5202-4041-B718-5E0289C601DD}.Debug|Win32.Build.0 = Debug|x86
+		{366A0BE8-5202-4041-B718-5E0289C601DD}.Release|Win32.ActiveCfg = Release|x86
+		{366A0BE8-5202-4041-B718-5E0289C601DD}.Release|Win32.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+Extract here :
+
+ - Bullet 2.81 Physics SDK SP1 (Windows line endings, svn r2613)
+   https://code.google.com/p/bullet/downloads/detail?name=bullet-2.81-rev2613.zip
